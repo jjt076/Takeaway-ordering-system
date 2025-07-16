@@ -61,7 +61,7 @@ sky-take-out/
 
 1. 克隆本仓库：
    ```bash
-   git clone <仓库地址>
+   git clone https://github.com/jjt076/Takeaway-ordering-system.git
    ```
 2. 使用 IDE 以 Maven 项目导入
 3. 配置数据库和第三方服务（修改 `sky-server/src/main/resources/application.yml`）
@@ -75,12 +75,3 @@ sky-take-out/
 - `sky-pojo`：实体模块，包含 DTO、实体类、VO
 - `sky-server`：业务模块，包含 Controller、Service、Mapper、配置等
 
-## 贡献与反馈
-
-- 欢迎提交 Issue 反馈问题
-- 欢迎 PR 贡献代码
-- Star 支持项目发展
-
-## 协议
-
-本项目采用 MIT License 开源协议。 
